@@ -7,7 +7,9 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=orcutt989&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<br>
+### Running projects
+* https://xtz-shots.io/
+* https://waterrecharge.org/
 
 ### Specialties
 
