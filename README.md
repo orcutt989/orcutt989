@@ -3,7 +3,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=orcutt989&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=orcutt989&layout=compact&langs_count=8&card_width=320" />
 </a>
 
