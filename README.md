@@ -13,7 +13,7 @@ Projects that I've built and are currently running and being used.
 
 #### XTZ-Shots [https://xtz-shots.io](https://xtz-shots.io/)
 
-XTZ-Shots is a [Tezos](https://tezos.com/) blockhain node filesystem sharing service.  Instead of waiting 6+ weeks to sync an archival Tezos node you can have one up and running in 20-60 mins.  Built on Kubernete, Python, and Bash. Check out the [helm chart](https://github.com/oxheadalpha/tezos-k8s/tree/master/snapshotEngine) I wrote for this.  
+XTZ-Shots is a [Tezos](https://tezos.com/) blockhain node filesystem sharing service.  Instead of waiting 6+ weeks to sync an archival Tezos node you can have one up and running in 20-60 mins.  Built on Kubernete, Python, and Bash. Check out the [helm chart](https://github.com/oxheadalpha/tezos-k8s/tree/master/snapshotEngine) I wrote for this.  Read about it more [here on Medium](https://medium.com/the-aleph/fast-node-sync-with-tezos-tarballs-4d74fb0da4f8).
 
 #### Waterrecharge [https://waterrecharge.org](https://waterrecharge.org/)
 
