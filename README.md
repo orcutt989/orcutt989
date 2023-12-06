@@ -7,6 +7,18 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=orcutt989&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+### Live Projects
+
+Projects that I've built and are currently running and being used.
+
+#### XTZ-Shots [https://xtz-shots.io](https://xtz-shots.io/)
+
+XTZ-Shots is a [Tezos](https://tezos.com/) blockhain node filesystem sharing service.  Instead of waiting 6+ weeks to sync an archival Tezos node you can have one up and running in 20-60 mins.  Built on Kubernetes, with Python, and Bash. Check out the [helm chart](https://github.com/oxheadalpha/tezos-k8s/tree/master/snapshotEngine) I wrote for this.  
+
+#### Waterrecharge [https://waterrecharge.org](https://waterrecharge.org/)
+
+A [groundwater recharge](https://en.wikipedia.org/wiki/Groundwater_recharge) offset credit investment platform. Kind of like carbon offset credits but backed with the [Tezos](https://tezos.com/) blockchain and built on Kubernetes, Node.JS, and Python.
+
 ### Specialties
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
