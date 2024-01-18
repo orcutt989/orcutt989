@@ -1,5 +1,7 @@
 ### Hi there I'm an infrastructure engineer specializing in Kubernetes and cloud-based infrastructure. 👋
 
+[![HitCount](https://hits.dwyl.com/orcutt989/orcutt989.svg?style=flat-square)](http://hits.dwyl.com/orcutt989/orcutt989)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=orcutt989&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
