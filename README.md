@@ -9,6 +9,11 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orcutt989&langs_count=100&layout=compact&hide=html,css" />
 </a>
 
+### What I'm working on right now.
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=orcutt989&repo=gnoland-stack)](https://github.com/orcutt989/gnoland-stack)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=orcutt989&repo=gnoland-metrics)](https://github.com/orcutt989/gnoland-metrics)
+
 ### Live Projects
 
 Projects that I've built and are currently running and being used.
