@@ -10,11 +10,11 @@
 </a>
 
 ### Latest projects
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=orcutt989&repo=oracle-k3s)](https://github.com/orcutt989/oracle-k3s)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=orcutt989&repo=redis-and-rds)](https://github.com/orcutt989/redis-and-rds)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=orcutt989&repo=gnoland-stack)](https://github.com/orcutt989/gnoland-stack)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=orcutt989&repo=gnoland-metrics)](https://github.com/orcutt989/gnoland-metrics)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=orcutt989&repo=objectpromise)](https://github.com/orcutt989/objectpromise)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=orcutt989&repo=oracle-k3s)](https://github.com/orcutt989/oracle-k3s)
 
 ### Past Projects
 
