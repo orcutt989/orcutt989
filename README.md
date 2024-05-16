@@ -9,24 +9,12 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orcutt989&langs_count=100&layout=compact&hide=html,css" />
 </a>
 
-### Latest projects
+### Featured Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=orcutt989&repo=oracle-k3s)](https://github.com/orcutt989/oracle-k3s)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=orcutt989&repo=redis-and-rds)](https://github.com/orcutt989/redis-and-rds)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=orcutt989&repo=gnoland-stack)](https://github.com/orcutt989/gnoland-stack)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=orcutt989&repo=gnoland-metrics)](https://github.com/orcutt989/gnoland-metrics)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=orcutt989&repo=objectpromise)](https://github.com/orcutt989/objectpromise)
-
-### Past Projects
-
-Projects that I've built and are currently running and being used.
-
-#### XTZ-Shots [https://xtz-shots.io](https://web.archive.org/web/20231221055823/https://xtz-shots.io/)
-
-XTZ-Shots is a [Tezos](https://tezos.com/) blockhain node filesystem sharing service.  Instead of waiting 6+ weeks to sync an archival Tezos node you can have one up and running in 20-60 mins.  Built on Kubernetes, Python, and Bash. Check out the [helm chart](https://github.com/oxheadalpha/tezos-k8s/tree/master/charts/snapshotEngine) I wrote for this.  Read about it more [here on Medium](https://medium.com/the-aleph/fast-node-sync-with-tezos-tarballs-4d74fb0da4f8).
-
-#### Waterrecharge [https://waterrecharge.org](https://waterrecharge.org/)
-
-A [groundwater recharge](https://en.wikipedia.org/wiki/Groundwater_recharge) offset credit investment platform. Kind of like carbon offset credits but backed with the [Tezos](https://tezos.com/) blockchain and built on Kubernetes, Node.JS, and Python.
 
 ### Specialties
 
