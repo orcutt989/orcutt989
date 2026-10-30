@@ -2,19 +2,19 @@
 
 [![HitCount](https://hits.dwyl.com/orcutt989/orcutt989.svg?style=flat-square)](http://hits.dwyl.com/orcutt989/orcutt989)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=orcutt989&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats" />
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=orcutt989&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orcutt989&langs_count=100&layout=compact&hide=html,css" />
+<a href="https://github.com/stats-organization/github-stats-extended#top-languages-card">
+  <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=orcutt989&langs_count=8&layout=compact&hide=html,css" />
 </a>
 
 ### Featured Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=orcutt989&repo=oracle-k3s)](https://github.com/orcutt989/oracle-k3s)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=orcutt989&repo=redis-and-rds)](https://github.com/orcutt989/redis-and-rds)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=orcutt989&repo=gnoland-stack)](https://github.com/orcutt989/gnoland-stack)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=orcutt989&repo=gnoland-metrics)](https://github.com/orcutt989/gnoland-metrics)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=orcutt989&repo=objectpromise)](https://github.com/orcutt989/objectpromise)
+[![ReadMe Card](https://github-stats-extended.vercel.app/api/pin/?username=orcutt989&repo=oracle-k3s)](https://github.com/orcutt989/oracle-k3s)
+[![ReadMe Card](https://github-stats-extended.vercel.app/api/pin/?username=orcutt989&repo=redis-and-rds)](https://github.com/orcutt989/redis-and-rds)
+[![ReadMe Card](https://github-stats-extended.vercel.app/api/pin/?username=orcutt989&repo=gnoland-stack)](https://github.com/orcutt989/gnoland-stack)
+[![ReadMe Card](https://github-stats-extended.vercel.app/api/pin/?username=orcutt989&repo=gnoland-metrics)](https://github.com/orcutt989/gnoland-metrics)
+[![ReadMe Card](https://github-stats-extended.vercel.app/api/pin/?username=orcutt989&repo=objectpromise)](https://github.com/orcutt989/objectpromise)
 
 ### Specialties
 
@@ -22,7 +22,7 @@
 
 ### Languages
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 	![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) 	![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Favorite Tools
 
