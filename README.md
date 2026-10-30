@@ -2,12 +2,8 @@
 
 [![HitCount](https://hits.dwyl.com/orcutt989/orcutt989.svg?style=flat-square)](http://hits.dwyl.com/orcutt989/orcutt989)
 
-<a href="https://github.com/stats-organization/github-stats-extended">
-  <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=orcutt989&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-</a>
-<a href="https://github.com/stats-organization/github-stats-extended#top-languages-card">
-  <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=orcutt989&langs_count=8&layout=compact&hide=html,css" />
-</a>
+[![GitHub Stats](./github-stats.svg)](https://github.com/orcutt989)
+[![Top Languages](./top-langs.svg)](https://github.com/orcutt989)
 
 ### Featured Projects
 [![ReadMe Card](https://github-stats-extended.vercel.app/api/pin/?username=orcutt989&repo=oracle-k3s)](https://github.com/orcutt989/oracle-k3s)
